@@ -21,6 +21,7 @@ gulp.task('scripts',() => {
         .pipe(gulp.dest('./tmp/js'))
         .pipe(uglify())
         .pipe(gulp.dest(buildSrc+'/js/'))
+        .pipe(gulp.dest('/Users/julaud/www/panli/sf-panli-com/Ued/H5/appShare/js/'))
         .pipe(notify("Found file: <%= file.relative %>!"));
 });
 

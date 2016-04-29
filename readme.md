@@ -4,6 +4,12 @@ app 分享链接 转换 信息
 
 ## Use
 
+### link url
+
+```
+//sf.panli.com/Ued/H5/appShare/js/appshare.js
+```
+
 ### With Function
 
 ```js
