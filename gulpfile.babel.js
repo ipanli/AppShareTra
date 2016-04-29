@@ -18,7 +18,7 @@ const minjs = 'appshare.js';
 gulp.task('scripts',() => {
     return gulp.src('./src/js/*.js')
         .pipe(concat(minjs))
-        .pipe(gulp.dest('./tmp/js'))
+        .pipe(gulp.dest('./.tmp/js'))
         .pipe(uglify())
         .pipe(gulp.dest(buildSrc+'/js/'))
         .pipe(gulp.dest('/Users/julaud/www/panli/sf-panli-com/Ued/H5/appShare/js/'))
