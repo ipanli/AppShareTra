@@ -4,10 +4,10 @@ app 分享链接 转换 信息
 
 ## Use
 
-### link url
+### lead into url
 
 ```
-//sf.panli.com/Ued/H5/appShare/js/appshare.js
+http://sf.panli.com/Ued/H5/appShare/js/appshare.js
 ```
 
 ### With Function
