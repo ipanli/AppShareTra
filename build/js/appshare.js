@@ -1,0 +1,1 @@
+function AppShare(t){var p={"https://segmentfault.com":"sf.gg","https://baidu.com":"baidu.com","http://panli.com":"pl.com"};return p[t]?p[t]:!1}
